@@ -29,7 +29,7 @@ A simple book management REST API built with FastAPI. This project was created a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fastapi-book-manager.git
+   git clone https://github.com/MSirani/fastapi-book-manager.git
    ```
 
 2. Navigate to the project directory:
